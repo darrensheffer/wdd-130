@@ -281,7 +281,7 @@ main.equipment-grid {
 #banner-msg {
     grid-row: 1;
     grid-column: 1;
-    text-justify: center;
+    text-justify: auto;
     text-align: center;
     color: #fff;
 }
