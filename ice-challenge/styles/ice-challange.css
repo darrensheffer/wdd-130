@@ -11,6 +11,10 @@ header {
     font-weight: bold;
 }
 
+header:hover {
+    color: black;
+}
+
 .quote1 {
     font-family: serif;
     color: white;
